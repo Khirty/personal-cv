@@ -51,18 +51,7 @@ Open `index.html` in a browser, or use VS Code's Live Server extension. No insta
 5. Click **Deploy**, open the generated URL, and verify all sections and links.
 6. Replace the placeholder URL in this README and commit that change.
 
-## Suggested meaningful commits
 
-If developing this as a course assignment, commit real incremental work as you make it. Examples:
-
-- `chore: initialize portfolio structure and README`
-- `feat: add profile, education, and skills sections`
-- `feat: add project cards and filtering`
-- `style: implement responsive dark theme and animations`
-- `fix: test navigation and accessibility on mobile`
-- `docs: add live Vercel deployment URL`
-
-**Note:** This downloadable starter is already assembled. Do not claim historical incremental development that did not occur; make meaningful commits for actual revisions, testing, and improvements.
 
 ## Author
 
