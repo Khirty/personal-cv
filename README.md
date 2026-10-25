@@ -35,3 +35,4 @@ khirt-cv-website/
 **Khirt A. Abapo**  
 Email: khirtabapo2008@gmail.com  
 GitHub: https://github.com/Khirty
+LinkedIn: https://www.linkedin.com/in/khirt-abapo-277a85446/
